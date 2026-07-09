@@ -27,8 +27,6 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
 - 🎯 Goal: Become a Cloud & DevOps Engineer
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud
@@ -54,6 +52,18 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+## 📚 Learning Journey
+
+- [x] Linux Fundamentals
+- [x] Git & GitHub
+- [x] AWS EC2
+- [x] IAM
+- [ ] CloudFormation
+- [ ] Kubernetes
+- [ ] Terraform
+- [ ] Jenkins
+- [ ] Azure
 
 - 💼 LinkedIn:www.linkedin.com/in/ramazan-agac
 - 📧 Email:rmzn6898@gmail.com
