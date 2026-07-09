@@ -1,7 +1,13 @@
 # Hi, I'm Ramazan 👋
 
+<h1 align="center">Ramazan Ağaç</h1>
+
+<h3 align="center">
+AWS • DevOps • Cloud Engineering
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1500&color=00C853&center=true&vCenter=true&width=900&lines=%3E+docker+run;%3E+terraform+apply;%3E+kubectl+apply;%3E+deployment+successful"/>
+Building scalable infrastructure with automation and modern DevOps practices.
 </p>
 
 ## ☁️ AWS & DevOps Engineer in Training
