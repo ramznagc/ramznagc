@@ -25,6 +25,7 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
 - 🐳 Working with Docker and Kubernetes
 - 📈 Building CI/CD pipelines and automation workflows
 - 🎯 Goal: Become a Cloud & DevOps Engineer
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -54,6 +55,7 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
 </p>
 
 ---
+
 ## 🚀 Current Focus
 
 - ☁️ Building cloud infrastructure on AWS
@@ -103,6 +105,8 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
 - ⏳ Azure Monitoring
 
 ---
+## 🚀 Current Focus
+
 ---
 
 ## 📊 GitHub Stats
@@ -111,6 +115,10 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramznagc&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramznagc&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+---
+
+## 📫 Connect with Me
 
 - 💼 LinkedIn:www.linkedin.com/in/ramazan-agac
 - 📧 Email:rmzn6898@gmail.com
