@@ -1,7 +1,7 @@
 # Hi, I'm Ramazan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=4000&pause=1500&color=24292F&center=true&vCenter=true&width=900&lines=AWS+%26+DevOps+Engineer;Building+Reliable+Cloud+Infrastructure;Automating+Everything;Docker+%7C+Kubernetes+%7C+Terraform;Continuous+Learning" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=24292F&center=true&vCenter=true&width=900&lines=Building+Cloud+Infrastructure;Automating+Everything;Docker+•+Kubernetes+•+Terraform;AWS+DevOps+Engineer+in+Training" />
 </p>
 
 ## ☁️ AWS & DevOps Engineer in Training
