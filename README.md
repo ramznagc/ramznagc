@@ -47,17 +47,6 @@ AWS • Azure • Docker • Kubernetes • Terraform • Jenkins • CI/CD • 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramznagc&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramznagc&layout=compact&theme=transparent" />
-</p>
-
----
 
 ## 📫 Connect
 
