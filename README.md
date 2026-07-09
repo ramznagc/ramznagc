@@ -1,5 +1,9 @@
 # Hi, I'm Ramazan 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AWS+%26+DevOps+Engineer+in+Training;Learning+Cloud+Technologies;Docker+%7C+Kubernetes+%7C+Terraform;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 ## ☁️ AWS & DevOps Engineer in Training
 
 Passionate about cloud technologies, automation, and modern infrastructure.
