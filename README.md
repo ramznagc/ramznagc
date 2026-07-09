@@ -1,7 +1,7 @@
 # Hi, I'm Ramazan 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1500&color=111111&center=true&vCenter=true&width=700&lines=Build.;Automate.;Deploy.;Repeat."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1500&color=00C853&center=true&vCenter=true&width=900&lines=%3E+docker+run;%3E+terraform+apply;%3E+kubectl+apply;%3E+deployment+successful"/>
 </p>
 
 ## ☁️ AWS & DevOps Engineer in Training
