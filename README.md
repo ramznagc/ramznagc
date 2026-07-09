@@ -53,17 +53,46 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+---
+
 ## 📚 Learning Journey
 
-- [x] Linux Fundamentals
-- [x] Git & GitHub
-- [x] AWS EC2
-- [x] IAM
-- [x] CloudFormation
-- [ ] Kubernetes
-- [ ] Terraform
-- [ ] Jenkins
-- [ ] Azure
+### ☁️ AWS Cloud
+
+- ✅ Cloud Computing Fundamentals
+- ✅ Linux & Networking Basics
+- ✅ EC2
+- ✅ IAM
+- ⏳ VPC
+- ⏳ Route 53
+- ⏳ CloudFront
+- ⏳ S3
+- ⏳ RDS
+- ⏳ DynamoDB
+- ⏳ CloudWatch
+- ⏳ Lambda
+- ⏳ CloudFormation
+
+### ⚙️ DevOps
+
+- ✅ Git & GitHub
+- ⏳ Docker
+- ⏳ Terraform
+- ⏳ Jenkins
+- ⏳ Kubernetes
+- ⏳ Helm
+- ⏳ Ansible
+- ⏳ Prometheus
+- ⏳ Grafana
+- ⏳ ELK Stack
+
+### ☁️ Azure
+
+- ⏳ Azure Fundamentals
+- ⏳ Azure Virtual Machines
+- ⏳ Azure Networking
+- ⏳ Azure Storage
+- ⏳ Azure Monitoring
 
 - 💼 LinkedIn:www.linkedin.com/in/ramazan-agac
 - 📧 Email:rmzn6898@gmail.com
