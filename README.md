@@ -59,7 +59,7 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
 - [x] Git & GitHub
 - [x] AWS EC2
 - [x] IAM
-- [ ] CloudFormation
+- [x] CloudFormation
 - [ ] Kubernetes
 - [ ] Terraform
 - [ ] Jenkins
