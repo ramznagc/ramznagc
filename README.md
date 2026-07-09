@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ramazan 👋
 
-<!--
-**ramznagc/ramznagc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ AWS & DevOps Engineer in Training
 
-Here are some ideas to get you started:
+Passionate about cloud technologies, automation, and modern infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🇹🇷 Based in Turkey
+- ☁️ Currently studying **AWS & DevOps Engineering**
+- 🐳 Learning Docker, Kubernetes and CI/CD pipelines
+- ⚙️ Interested in Infrastructure as Code and Cloud Automation
+- 📚 Continuously improving my Linux and networking skills
+
+---
+
+## 🎯 Currently Learning
+
+- AWS Cloud
+- Linux
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- Git & GitHub
+- CI/CD
+- Bash Scripting
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn:www.linkedin.com/in/ramazan-agac
+- 📧 Email:rmzn6898@gmail.com
