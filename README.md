@@ -14,14 +14,17 @@ Passionate about cloud technologies, automation, and modern infrastructure.
 
 ---
 
-## 👨‍💻 About Me
+## 👨🏻‍💻 About Me
 
-- 🇹🇷 Based in Turkey
-- ☁️ Currently studying **AWS & DevOps Engineering**
-- 🐳 Learning Docker, Kubernetes and CI/CD pipelines
-- ⚙️ Interested in Infrastructure as Code and Cloud Automation
-- 📚 Continuously improving my Linux and networking skills
+I'm currently focused on building a strong foundation in **Cloud Computing** and **DevOps Engineering** through hands-on projects and continuous learning.
 
+- ☁️ Cloud & DevOps Bootcamp Student
+- 🚀 Learning AWS, Azure and modern DevOps practices
+- 🐧 Strengthening Linux, Networking and Bash skills
+- ⚙️ Exploring Infrastructure as Code with Terraform
+- 🐳 Working with Docker and Kubernetes
+- 📈 Building CI/CD pipelines and automation workflows
+- 🎯 Goal: Become a Cloud & DevOps Engineer
 ---
 
 ## 🎯 Currently Learning
