@@ -103,6 +103,14 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
 - ⏳ Azure Monitoring
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramznagc&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramznagc&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 - 💼 LinkedIn:www.linkedin.com/in/ramazan-agac
 - 📧 Email:rmzn6898@gmail.com
