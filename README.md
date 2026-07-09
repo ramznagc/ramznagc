@@ -54,6 +54,14 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
 </p>
 
 ---
+## 🚀 Current Focus
+
+- ☁️ Building cloud infrastructure on AWS
+- 🐳 Learning containerization with Docker
+- ☸️ Exploring Kubernetes orchestration
+- 🌍 Writing Infrastructure as Code with Terraform
+- ⚙️ Creating CI/CD pipelines using Jenkins
+- 🔒 Learning cloud security best practices
 
 ## 📚 Learning Journey
 
