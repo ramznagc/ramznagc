@@ -1,14 +1,12 @@
-# Hi, I'm Ramazan 👋
+<h1 align="center">Hi 👋, I'm Ramazan Agac</h1>
 
-<h1 align="center">Ramazan Ağaç</h1>
-
-<h3 align="center">
-AWS • DevOps • Cloud Engineering
-</h3>
+<h3 align="center">☁️ AWS & DevOps Engineer in Training</h3>
 
 <p align="center">
-Building scalable infrastructure with automation and modern DevOps practices.
+Passionate about cloud technologies and automation.<br>
+Currently building my skills in AWS, Linux, Docker, Kubernetes, Terraform and CI/CD.
 </p>
+
 
 ## ☁️ AWS & DevOps Engineer in Training
 
