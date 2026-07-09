@@ -94,6 +94,7 @@ I'm currently focused on building a strong foundation in **Cloud Computing** and
 - ⏳ Azure Storage
 - ⏳ Azure Monitoring
 
+---
 
 - 💼 LinkedIn:www.linkedin.com/in/ramazan-agac
 - 📧 Email:rmzn6898@gmail.com
