@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ramazan Agac</h1>
 
-<h3 align="center">☁️ Cloud & DevOps Engineer in Training</h3>
+<h3 align="center">☁️ AWS & DevOps Engineer</h3>
 
 <p align="center">
-Building practical Cloud & DevOps skills through hands-on projects and continuous learning.
+Building cloud solutions, documenting hands-on projects, and sharing practical AWS & DevOps knowledge.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- ☁️ Cloud & DevOps Bootcamp Student
-- 🚀 Focused on AWS, Azure & DevOps Technologies
-- 🐧 Learning Linux, Docker, Kubernetes & Terraform
-- ⚙️ Improving CI/CD, Cloud Infrastructure and Automation skills
+- ☁️ AWS & DevOps Engineer
+- 🚀 Building hands-on projects with AWS and DevOps technologies
+- 📚 Sharing technical documentation, best practices and cheat sheets
+- ⚙️ Passionate about Cloud Infrastructure, Automation and CI/CD
 
 ---
 
@@ -41,12 +41,16 @@ Building practical Cloud & DevOps skills through hands-on projects and continuou
 
 ---
 
-## 🎯 Currently Learning
+## 🚀 What You'll Find Here
 
-AWS • Azure • Docker • Kubernetes • Terraform • Jenkins • CI/CD • Cloud Security
+- ☁️ AWS Hands-on Labs
+- 🐧 Linux Administration Notes
+- 🌐 Networking Documentation
+- ⚙️ DevOps Projects
+- 📖 Technical Cheat Sheets
+- 📝 Cloud & Infrastructure Documentation
 
 ---
-
 
 ## 📫 Connect
 
@@ -59,3 +63,13 @@ AWS • Azure • Docker • Kubernetes • Terraform • Jenkins • CI/CD • 
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+
+## 🔥 Contribution Streak
+
+<!-- GitHub Streak Stats -->
