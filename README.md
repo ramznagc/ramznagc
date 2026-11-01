@@ -26,7 +26,7 @@ Building cloud solutions, documenting hands-on projects, and sharing practical A
 
 ### ⚙️ DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,githubactions" />
 </p>
 
 ### 💻 Operating Systems & Scripting
