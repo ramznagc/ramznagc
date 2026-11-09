@@ -53,6 +53,8 @@ Building cloud solutions, documenting hands-on projects, and sharing practical A
 - ☁️ AWS Hands-on Labs
 - 🐧 Linux Administration Notes
 - 🌐 Networking Documentation
+- 🐳 Containerized applications using Docker Compose
+- 🧩 Python/Flask backend projects with PostgreSQL and Redis
 - ⚙️ DevOps Projects
 - 📖 Technical Cheat Sheets
 - 📝 Cloud & Infrastructure Documentation
