@@ -24,10 +24,12 @@ Building cloud solutions, documenting hands-on projects, and sharing practical A
 <img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-### ⚙️ DevOps
+### ⚙️ DevOps & Infrastructure
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,githubactions" />
 </p>
+
+**Container workflows:** Docker images, containers, networking, volumes and Docker Compose for multi-container applications.
 
 ### 💻 Operating Systems & Scripting
 <p>
