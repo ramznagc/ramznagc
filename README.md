@@ -36,6 +36,11 @@ Building cloud solutions, documenting hands-on projects, and sharing practical A
 <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 </p>
 
+### 🧰 Application & Data Tools
+- **Python & Flask:** Building REST APIs and backend services.
+- **PostgreSQL:** Relational database fundamentals and application data storage.
+- **Redis:** In-memory caching for application performance.
+
 ### 🔧 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
